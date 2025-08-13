@@ -65,5 +65,3 @@ The project implements:
 | **Burn Wire Deployment Circuit** | Custom | Releases antennas and solar panels on command. |
 
 ---
-## File Structure
-
