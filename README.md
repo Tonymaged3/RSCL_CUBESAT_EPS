@@ -45,6 +45,7 @@ The project implements:
    - Battery heater circuit to maintain optimal operating temperature.
 
 ---
+<img width="2724" height="1333" alt="eps_block_diagram" src="https://github.com/user-attachments/assets/831d38fd-ddaa-4bf9-a6d9-41fa69f4dce5" />
 
 ## Component List & Circuit Roles
 
